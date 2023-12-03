@@ -1,0 +1,167 @@
+[
+  {
+    "plantId": "apple-pie",
+    "name": "Apple Pie",
+    "description": "The apple tree (Malus pumila) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple.",
+    "growZoneNumber": 3,
+    "wateringInterval": 30,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg",
+    "recipe": {
+      "name": "Apple Pie",
+      "image": "https://example.com/apple_pie_image.jpg",
+      "prepTime": 60,
+      "ingredients": [
+        "6 cups of sliced apples",
+        "1 cup of granulated sugar",
+        "1 teaspoon of ground cinnamon",
+        "1/4 teaspoon of salt",
+        "1 tablespoon of lemon juice",
+        "1/3 cup of all-purpose flour",
+        "1 package of refrigerated pie crusts"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F (220°C).",
+        "In a large bowl, combine sliced apples, sugar, cinnamon, salt, and lemon juice. Let it sit for 15 minutes.",
+        "Stir in flour to coat the apple mixture evenly.",
+        "Roll out one pie crust and place it in a pie dish. Pour the apple mixture into the crust.",
+        "Roll out the second pie crust and place it over the apple mixture. Seal the edges and cut slits in the top crust for ventilation.",
+        "Bake for 40-45 minutes or until the crust is golden brown. Let it cool before serving."
+      ]
+    }
+  },
+  {
+    "plantId": "beet-salad",
+    "name": "Beet Salad",
+    "description": "The beetroot is the taproot portion of the beet plant, usually known in North America as the beet, also table beet, garden beet, or red beet.",
+    "growZoneNumber": 2,
+    "wateringInterval": 7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Beetroot_jm26647.jpg",
+    "recipe": {
+      "name": "Beet Salad",
+      "image": "https://example.com/beet_salad_image.jpg",
+      "prepTime": 15,
+      "ingredients": [
+        "3 medium-sized beets, peeled and grated",
+        "1/4 cup of feta cheese, crumbled",
+        "2 tablespoons of balsamic vinegar",
+        "3 tablespoons of olive oil",
+        "Salt and pepper to taste",
+        "1/4 cup of fresh parsley, chopped"
+      ],
+      "instructions": [
+        "In a bowl, combine grated beets and crumbled feta..."
+      ]
+    }
+  },
+  {
+    "plantId": "cilantro-salsa",
+    "name": "Cilantro Salsa",
+    "description": "Cilantro is an herb that is commonly used in various cuisines for its fresh and citrusy flavor.",
+    "growZoneNumber": 2,
+    "wateringInterval": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG",
+    "recipe": {
+      "name": "Cilantro Salsa",
+      "image": "https://example.com/cilantro_salsa_image.jpg",
+      "prepTime": 15,
+      "ingredients": [
+        "2 cups of fresh cilantro leaves, chopped",
+        "1 cup of tomatoes, diced",
+        "1/2 cup of red onion, finely chopped",
+        "1 jalapeño, seeded and minced",
+        "2 cloves of garlic, minced",
+        "Juice of 1 lime",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a bowl, combine chopped cilantro, diced tomatoes, red onion, jalapeño, and garlic.",
+        "Add lime juice and season with salt and pepper. Mix well.",
+        "Refrigerate for at least 30 minutes before serving. Enjoy with tortilla chips or as a topping for your favorite dishes."
+      ]
+    }
+  },
+  {
+    "plantId": "tomato-soup",
+    "name": "Tomato Soup",
+    "description": "The tomato (Solanum lycopersicum) is a widely cultivated and consumed fruit, typically used as a vegetable in cooking.",
+    "growZoneNumber": 9,
+    "wateringInterval": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cherry_tomatoes_red_and_green_2009_16x9.jpg",
+    "recipe": {
+      "name": "Tomato Soup",
+      "image": "https://example.com/tomato_soup_image.jpg",
+      "prepTime": 30,
+      "ingredients": [
+        "6 large tomatoes, diced",
+        "1 onion, chopped",
+        "2 carrots, peeled and sliced",
+        "3 cloves of garlic, minced",
+        "4 cups of vegetable broth",
+        "1 teaspoon of sugar",
+        "Salt and pepper to taste",
+        "1/2 cup of heavy cream (optional)"
+      ],
+      "instructions": [
+        "In a large pot, sauté chopped onions and garlic until translucent.",
+        "Add diced tomatoes, sliced carrots, and vegetable broth. Bring to a boil.",
+        "Reduce heat, add sugar, salt, and pepper. Simmer for 20-25 minutes until vegetables are tender.",
+        "Use an immersion blender to puree the soup until smooth. Add heavy cream if desired.",
+        "Serve hot and enjoy!"
+      ]
+    }
+  },
+  {
+    "plantId": "avocado-toast",
+    "name": "Avocado Toast",
+    "description": "The avocado (Persea americana) is a creamy fruit that is often used in a variety of dishes, known for its rich taste and nutritional benefits.",
+    "growZoneNumber": 9,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Branch_and_fruit_of_the_Maluma_avocado_cultivar.jpg",
+    "recipe": {
+      "name": "Avocado Toast",
+      "image": "https://example.com/avocado_toast_image.jpg",
+      "prepTime": 10,
+      "ingredients": [
+        "2 slices of whole-grain bread",
+        "1 ripe avocado, mashed",
+        "Salt and pepper to taste",
+        "Red pepper flakes (optional)",
+        "Poached or fried egg (optional)",
+        "Cherry tomatoes, sliced (optional)",
+        "Fresh cilantro, chopped (optional)"
+      ],
+      "instructions": [
+        "Toast the slices of bread until golden brown.",
+        "Spread the mashed avocado evenly on each slice of toast.",
+        "Season with salt, pepper, and red pepper flakes if desired.",
+        "Top with a poached or fried egg, sliced cherry tomatoes, and fresh cilantro if desired.",
+        "Serve immediately and enjoy!"
+      ]
+    }
+  },
+  {
+    "plantId": "pear-salad",
+    "name": "Pear Salad",
+    "description": "Pears (Pyrus communis) are sweet and juicy fruits commonly used in salads to add a refreshing flavor.",
+    "growZoneNumber": 3,
+    "wateringInterval": 30,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/More_pears.jpg",
+    "recipe": {
+      "name": "Pear Salad",
+      "image": "https://example.com/pear_salad_image.jpg",
+      "prepTime": 15,
+      "ingredients": [
+        "Mixed salad greens",
+        "2 ripe pears, sliced",
+        "1/2 cup of walnuts, toasted",
+        "1/4 cup of crumbled blue cheese",
+        "Balsamic vinaigrette dressing"
+      ],
+      "instructions": [
+        "In a large bowl, combine mixed salad greens, sliced pears, toasted walnuts, and crumbled blue cheese.",
+        "Drizzle balsamic vinaigrette dressing over the salad and toss gently to combine.",
+        "Serve immediately as a refreshing and tasty side dish or light meal."
+      ]
+    }
+  }
+]
