@@ -3,7 +3,7 @@
 
 
 
-### Android Studio Version - Hedgehog
+### Android Studio Version - Hedgehog // 2023.1.1
 ### Virtual Device used for testing - Pixel 4 API 33
 
 ## Project Description
